@@ -14,7 +14,7 @@ Diese Datei liefert die neue Logo Version aus.
 
 Ein Einbindung erfolgt einfach als Bild:
 
- <a href="https://www.ipv6ready.de/"><img src="ipv6readyornot.php" alt="IPv6 ready or not?"></a>
+    <a href="https://www.ipv6ready.de/"><img src="ipv6readyornot.php" alt="IPv6 ready or not?"></a>
 
 ## readyornot.php 
 
@@ -25,10 +25,10 @@ Diese Datei liefert die alte Logo Version aus.
 
 Ein Einbindung erfolgt einfach als Bild:
 
- <a href="https://www.ipv6ready.de/"><img src="readyornot.php" alt="IPv6 ready or not?"></a>
+    <a href="https://www.ipv6ready.de/"><img src="readyornot.php" alt="IPv6 ready or not?"></a>
 
 ## Die PHP Dateien aus den Bildern neu generieren
 
- ./create.sh > readyornot.php
+    ./create.sh > readyornot.php
  
- ./create2.sh > ipv6readyornot.php
+    ./create2.sh > ipv6readyornot.php
